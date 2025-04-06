@@ -1,0 +1,13 @@
+path: '/content/gdrive/My Drive/PFE_Model' # dataset root dir
+train: data/images/train/ # train images (relative to 'path')
+val: data/images/val/   # val images (relative to 'path')
+augment: True
+# Classes
+names:
+  0: car
+  1: chair
+  2: corridor
+  3: mark
+  4: dog
+  5: ilon
+  6: door
