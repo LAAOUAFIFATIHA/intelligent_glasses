@@ -28,8 +28,9 @@ firebase_admin.initialize_app(cred, {"storageBucket": "base-pro-b0a43.appspot.co
 
 def add_To_dataBase(cloud_path , local_path ,date ,name ):
  
-
+    # names date
     db = firestore.client()
+    # images 
     bucket = storage.bucket()
         
     # to Firebase Storage BUCKET FOR FIRESTORAGE
@@ -44,7 +45,7 @@ def add_To_dataBase(cloud_path , local_path ,date ,name ):
         "name": name,  
         "date": date,  
     }
-
+     
     # Add document of name and date  to images collection "-"
     db.collection("images").add(image_data) 
 

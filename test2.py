@@ -20,7 +20,7 @@ if not cap.isOpened():
 
 # Load YOLO model
 # model_path = "C:/Users/hp/runs/detect/train_4_50/weights/last.pt"
-model_path = "C:/PFE1/train222/weights/last.pt"
+model_path = "C:/PFE1/train/weights/last.pt"
 model = YOLO(model_path)
 
 threshold = 0.78  # Confidence threshold
