@@ -10,7 +10,7 @@
 
 
 
-<img src="" , alt ="smart glasses">
+<img src="URL_TO_IMAGE" alt="smart glasses" />
 
 
 
