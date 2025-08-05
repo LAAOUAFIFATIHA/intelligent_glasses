@@ -10,7 +10,7 @@
 
 
 
-<img src="URL_TO_IMAGE" alt="smart glasses" />
+<img src="images_Take/Glasses_structure.png" alt="smart glasses" />
 
 
 
