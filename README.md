@@ -10,7 +10,9 @@
 
 
 
-<img src="images_Take/Glasses_structure.png" alt="smart glasses" />
+<p align="center">
+  <img src="images_Take/Glasses_structure.png" alt="smart glasses" />
+</p>
 
 
 
