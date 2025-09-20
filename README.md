@@ -60,11 +60,15 @@ Future extension for mobile application integration
 <br>
 By using YOLOv8, this project benefits from state-of-the-art accuracy and real-time performance, making it suitable for practical applications such as smart vision systems, surveillance, and assistive technologies.
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Play the name of the detected object
+The Raspberry Pi camera provides a continuous video stream to the Raspberry Pi, where the YOLOv8 model is installed. Once an object is detected, the system instantly plays the object’s name through a headset, allowing blind or visually impaired users to recognize their surroundings in real time. This audio feedback offers immediate awareness of nearby people and objects, enabling users to navigate more safely, independently, and confidently while enhancing their interaction with the environment.
+
+<br> <br><p align="center">
+  <img src="images_Take/dog05-04-2025_18-26-03.png" alt="yoloV8" width="45%" />
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
