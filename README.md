@@ -52,8 +52,11 @@ Real-time detection of objects from a camera feed
 Logging and registering detected objects in the system
 
 Future extension for mobile application integration 
-<br> <br>
-<img src="images_Take/dog05-04-2025_18-26-03.png" alt="yoloV8"> <img src="images_Take/ilon04-04-2025_11-30-37.png" alt="yoloV8">
+<br> <br><p align="center">
+  <img src="images_Take/dog05-04-2025_18-26-03.png" alt="yoloV8" width="45%" />
+  <img src="images_Take/ilon04-04-2025_11-30-37.png" alt="yoloV8" width="45%" />
+</p>
+
 <br>
 By using YOLOv8, this project benefits from state-of-the-art accuracy and real-time performance, making it suitable for practical applications such as smart vision systems, surveillance, and assistive technologies.
 
