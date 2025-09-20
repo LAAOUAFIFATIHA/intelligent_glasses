@@ -67,11 +67,17 @@ By using YOLOv8, this project benefits from state-of-the-art accuracy and real-t
 The Raspberry Pi camera provides a continuous video stream to the Raspberry Pi, where the YOLOv8 model is installed. Once an object is detected, the system instantly plays the object’s name through a headset, allowing blind or visually impaired users to recognize their surroundings in real time. This audio feedback offers immediate awareness of nearby people and objects, enabling users to navigate more safely, independently, and confidently while enhancing their interaction with the environment.
 
 <br> <br><p align="center">
-  <img src="images_Take/raspberry pi.jpg" alt="yoloV8" width="45%" />
+  <img src="images_Take/raspberry pi.jpg" alt="raspberry" width="45%" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+ ### Mobile application that records/registers all detected objects
+The mobile application is linked to a database where the Raspberry Pi sends images of the detected objects. The application retrieves these images from the database, allowing users to view and review all detected objects conveniently. This setup ensures seamless storage, access, and management of detections for better tracking and analysis.
+
+<br> <br><p align="center">
+  <img src="images_Take/raspberry pi.jpg" alt="APP" width="45%" />
+</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
