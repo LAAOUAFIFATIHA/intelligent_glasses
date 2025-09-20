@@ -12,7 +12,8 @@
 <p align="center">
   <img src="images_Take/Glasses_structure.png" alt="smart glasses" />
 </p>
-### about the prject
+
+### About the prject
 
 This is the final version of Smart glasses. I placed the camera on the glasses so it moves with the user's head. The model is inside a box, and I added a headset for audio output. When the camera detects an object or person, the headset announces its name to assist the blind user.
 
