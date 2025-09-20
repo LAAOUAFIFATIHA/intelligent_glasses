@@ -21,6 +21,16 @@ This is the final version of Smart glasses. I placed the camera on the glasses s
 
 ### Functionality of the project
 
+Object detection
+
+Face recognition
+
+Play the name of the detected object
+
+Mobile application that records/registers all detected objects
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
