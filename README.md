@@ -76,7 +76,7 @@ The Raspberry Pi camera provides a continuous video stream to the Raspberry Pi, 
 The mobile application is linked to a database where the Raspberry Pi sends images of the detected objects. The application retrieves these images from the database, allowing users to view and review all detected objects conveniently. This setup ensures seamless storage, access, and management of detections for better tracking and analysis.
 
 <br> <br><p align="center">
-  <img src="images_Take/APP.jpg" alt="APP" width="45%" />
+  <img src="images_Take/APP.jpg" alt="APP" width="25%" />
   <img src="images_Take/FIREBASE.png" alt="APP" width="45%" />
 </p>
 
