@@ -76,11 +76,29 @@ The Raspberry Pi camera provides a continuous video stream to the Raspberry Pi, 
 The mobile application is linked to a database where the Raspberry Pi sends images of the detected objects. The application retrieves these images from the database, allowing users to view and review all detected objects conveniently. This setup ensures seamless storage, access, and management of detections for better tracking and analysis.
 
 <br> <br><p align="center">
-  <img src="images_Take/APP.jpg" alt="APP" width="25%" />
   <img src="images_Take/FIREBASE.png" alt="APP" width="45%" />
 </p>
 
+<br> <br><p align="center">
+  <img src="images_Take/APP.jpg" alt="APP" width="35%" />
+</p>
 
+<br> <br>
+### Summary
+In summary, this project uses YOLOv8, a Raspberry Pi, and a mobile app built with Flutter and Dart, along with Python for backend processing, to provide real-time object detection with audio feedback, helping visually impaired users navigate safely and independently.
+
+### Resources
+
+<ul>
+  <li><a href="https://github.com/ultralytics/ultralytics" target="_blank">YOLOv8</a></li>
+  <li><a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></li>
+  <li><a href="https://flutter.dev/" target="_blank">Flutter & Dart</a></li>
+  <li><a href="https://www.python.org/" target="_blank">Python</a></li>
+  <li><a href="#" target="_blank">Mobile Application</a> (replace # with your app link)</li>
+</ul>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
