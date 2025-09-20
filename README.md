@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="images_Take/Glasses_structure.png" alt="smart glasses" />
+  <img src="images_Take/Glasses_structure.png" alt="smart glasses" style="width:600px; height:auto;" />
 </p>
 
 ### About the prject
@@ -29,6 +29,8 @@ This is the final version of Smart glasses. I placed the camera on the glasses s
 
 - Mobile application that records/registers all detected objects
 
+
+### Object detection
 
 
 
