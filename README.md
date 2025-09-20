@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="images_Take/Glasses_structure.png" alt="smart glasses" style="width:6000px; height:500;" />
+  <img src="images_Take/Glasses_structure.png" alt="smart glasses" style="width:6000px; height:200;" />
 </p>
 
 ### About the prject
