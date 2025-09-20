@@ -33,11 +33,11 @@ This is the final version of Smart glasses. I placed the camera on the glasses s
 ### Object detection and Face recognition
 For this part of the project, I implemented object detection using YOLOv8 (You Only Look Once, version 8), one of the most advanced and efficient deep learning models for real-time detection.
 
-🔹 Model: YOLOv8 by Ultralytics
+Model: YOLOv8 by <a href="https://github.com/ultralytics/ultralytics"> Ultralytics</a>
 
-🔹 Task: Object detection on images and video streams
+Task: Object detection on images and video streams
 
-🔹 Features:
+#### Features:
 
 Detects multiple objects simultaneously with high accuracy
 
@@ -45,15 +45,16 @@ Provides bounding boxes, class labels, and confidence scores
 
 Optimized for speed and can run on both CPU and GPU
 
-🔹 where i have use it ?:
+#### where i have use it ?:
 
 Real-time detection of objects from a camera feed
 
 Logging and registering detected objects in the system
 
 Future extension for mobile application integration
-
+<img src="" alt="yoloV8">
 By using YOLOv8, this project benefits from state-of-the-art accuracy and real-time performance, making it suitable for practical applications such as smart vision systems, surveillance, and assistive technologies.
+
 
 
 
