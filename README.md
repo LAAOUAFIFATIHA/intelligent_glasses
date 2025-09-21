@@ -94,6 +94,10 @@ In summary, this project uses YOLOv8, a Raspberry Pi, and a mobile app built wit
   <li><a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a></li>
   <li><a href="https://flutter.dev/" target="_blank">Flutter & Dart</a></li>
   <li><a href="https://www.python.org/" target="_blank">Python</a></li>
+  <li><a href="https://github.com/LAAOUAFIFATIHA/Flutter_App_firebase" target="_blank">Flutter Mobile Application</a></li>
+
+
+  
 </ul>
 
 
